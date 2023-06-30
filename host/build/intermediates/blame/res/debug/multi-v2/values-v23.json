@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "/home/mai/work/MT6797/MTK_AS_Camera2/host/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cmm\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\97c7a590794ac0b39920a1a91f8bf5dc\\res\\values-v23\\values-v23.xml",
+                    "source": "/home/mai/.gradle/caches/transforms-2/files-2.1/73ec34ab729cd3b245189b2a04ab7c13/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\cmm\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\d773d6373c2d547e2b7bf68dd0d2077b\\res\\values-v23\\values-v23.xml",
+                    "source": "/home/mai/.gradle/caches/transforms-2/files-2.1/8f0de6caa2dc351df38a21a05b85844d/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "outputFile": "/home/mai/work/MT6797/MTK_AS_Camera2/host/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\beautyface\\res\\values-sw360dp\\freeme_dimens.xml",
+                    "source": "/home/mai/work/MT6797/MTK_AS_Camera2/feature/mode/beautyface/res/values-sw360dp/freeme_dimens.xml",
                     "from": {
                         "startLines": "10,22,23,25,24,5,9,7,12,11,6,13,15,14,4,8,27,28,26,3,16,19,18,17,31,30,29,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\beautyface\\res\\values-sw360dp\\dimensions.xml",
+                    "source": "/home/mai/work/MT6797/MTK_AS_Camera2/feature/mode/beautyface/res/values-sw360dp/dimensions.xml",
                     "from": {
                         "startLines": "16",
                         "startColumns": "4",

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./common/libs/portability_2019_08_14.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/common/libs/portability_2019_08_14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Camera2.iml" filepath="$PROJECT_DIR$/Camera2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/camerapostalgo/camerapostalgo.iml" filepath="$PROJECT_DIR$/camerapostalgo/camerapostalgo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/host/host.iml" filepath="$PROJECT_DIR$/host/host.iml" />
-      <module fileurl="file://$PROJECT_DIR$/camerapostalgo/interface/interface.iml" filepath="$PROJECT_DIR$/camerapostalgo/interface/interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/camerapostalgo/interface/java/java.iml" filepath="$PROJECT_DIR$/camerapostalgo/interface/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MTK_AS_Camera2.iml" filepath="$PROJECT_DIR$/.idea/modules/MTK_AS_Camera2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camerapostalgo/MTK_AS_Camera2.camerapostalgo.iml" filepath="$PROJECT_DIR$/.idea/modules/camerapostalgo/MTK_AS_Camera2.camerapostalgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/MTK_AS_Camera2.camerapostalgo.interface.iml" filepath="$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/MTK_AS_Camera2.camerapostalgo.interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/java/MTK_AS_Camera2.camerapostalgo.interface.java.iml" filepath="$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/java/MTK_AS_Camera2.camerapostalgo.interface.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/java/MTK_AS_Camera2.camerapostalgo.interface.java.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/java/MTK_AS_Camera2.camerapostalgo.interface.java.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/java/MTK_AS_Camera2.camerapostalgo.interface.java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/java/MTK_AS_Camera2.camerapostalgo.interface.java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/java/MTK_AS_Camera2.camerapostalgo.interface.java.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/camerapostalgo/interface/java/MTK_AS_Camera2.camerapostalgo.interface.java.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MTK_AS_Camera2.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MTK_AS_Camera2.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MTK_AS_Camera2.common.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MTK_AS_Camera2.common.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MTK_AS_Camera2.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MTK_AS_Camera2.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/MTK_AS_Camera2.common.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/MTK_AS_Camera2.common.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/host/MTK_AS_Camera2.host.iml" filepath="$PROJECT_DIR$/.idea/modules/host/MTK_AS_Camera2.host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/host/MTK_AS_Camera2.host.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/host/MTK_AS_Camera2.host.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/host/MTK_AS_Camera2.host.main.iml" filepath="$PROJECT_DIR$/.idea/modules/host/MTK_AS_Camera2.host.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/host/MTK_AS_Camera2.host.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/host/MTK_AS_Camera2.host.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "/home/mai/work/MT6797/MTK_AS_Camera2/host/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\facebeauty\\res\\values-sw600dp\\camera_dimens.xml",
+                    "source": "/home/mai/work/MT6797/MTK_AS_Camera2/feature/mode/facebeauty/res/values-sw600dp/camera_dimens.xml",
                     "from": {
                         "startLines": "23,22,21,18,20,25,24,19,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,34 @@
                     }
                 },
                 {
-                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\feature\\mode\\panorama\\res\\values-sw600dp\\dimens.xml",
+                    "source": "/home/mai/.gradle/caches/transforms-2/files-2.1/73ec34ab729cd3b245189b2a04ab7c13/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/home/mai/work/MT6797/MTK_AS_Camera2/host/res/values-sw600dp/dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,61",
+                        "endOffsets": "112,174"
+                    },
+                    "to": {
+                        "startLines": "23,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1387,1752",
+                        "endColumns": "61,61",
+                        "endOffsets": "1444,1809"
+                    }
+                },
+                {
+                    "source": "/home/mai/work/MT6797/MTK_AS_Camera2/feature/mode/panorama/res/values-sw600dp/dimens.xml",
                     "from": {
                         "startLines": "3,2,5,4",
                         "startColumns": "4,4,4,4",
@@ -38,7 +65,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\cmm\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\b229c67df9ad0a2756d4b3e1e4783e01\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/home/mai/.gradle/caches/transforms-2/files-2.1/846504bea4f824800d332117b91bbfc9/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -54,33 +81,6 @@
                         "endLines": "12,13,14,15,16,17,19,20,35,39",
                         "endColumns": "59,69,70,71,57,57,10,63,62,10",
                         "endOffsets": "776,846,917,989,1047,1105,1214,1278,2168,2340"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\cmm\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\97c7a590794ac0b39920a1a91f8bf5dc\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
-                    }
-                },
-                {
-                    "source": "D:\\AndroidStudio\\workSpace\\androidQF2Camera\\Camera2\\host\\res\\values-sw600dp\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,117",
-                        "endColumns": "61,61",
-                        "endOffsets": "112,174"
-                    },
-                    "to": {
-                        "startLines": "23,29",
-                        "startColumns": "4,4",
-                        "startOffsets": "1387,1752",
-                        "endColumns": "61,61",
-                        "endOffsets": "1444,1809"
                     }
                 }
             ]
