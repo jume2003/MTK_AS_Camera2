@@ -15,3 +15,6 @@
 local.properties
 /host/build
 *.so
+*.jar
+*.class
+
