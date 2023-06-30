@@ -39,6 +39,7 @@
         android:resizeableActivity="false"
         android:restoreAnyVersion="true"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/ThemeCamera" >
         <activity
             android:name="com.mediatek.camera.CameraActivity"

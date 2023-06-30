@@ -41,7 +41,7 @@ package com.mediatek.camera.common;
 import android.app.Activity;
 import android.location.Location;
 
-import com.mediatek.camera.CameraApplication;
+//import com.mediatek.camera.CameraApplication;
 import com.mediatek.camera.common.app.IApp;
 import com.mediatek.camera.common.bgservice.BGServiceKeeper;
 import com.mediatek.camera.common.device.CameraDeviceManager;
@@ -107,10 +107,11 @@ public class CameraContext implements ICameraContext {
             mIsBGServiceEnabled = deviceDescription.isBGServiceSupport()
                     && !isForceDisableBGService;
         }
+        /*
         if (mIsBGServiceEnabled) {
             mBGServiceKeeper = ((CameraApplication) mActivity.getApplication())
                     .getBGServiceKeeper(this);
-        }
+        }*/
         mCamPostAlgo = new CamPostAlgo();
 
     }
