@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Jun 30 15:35:34 CST 2023
+#Fri Jun 30 15:46:00 CST 2023
 4.path=lib/x86_64/librsjni_androidx.so
 8.set=NATIVE_RESOURCE
 6.path=lib/armeabi-v7a/libRSSupport.so

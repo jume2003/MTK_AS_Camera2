@@ -1,4 +1,4 @@
-#Fri Jun 30 15:35:34 CST 2023
+#Fri Jun 30 15:46:00 CST 2023
 base.0=/home/mai/work/MT6797/MTK_AS_Camera2/host/build/intermediates/transforms/dexMerger/androidTest/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
