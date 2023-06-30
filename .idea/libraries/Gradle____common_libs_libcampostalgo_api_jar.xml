@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: ./common/libs/libcampostalgo_api.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/common/libs/libcampostalgo_api.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

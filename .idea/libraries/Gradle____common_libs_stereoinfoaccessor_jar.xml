@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: ./common/libs/stereoinfoaccessor.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/common/libs/stereoinfoaccessor.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

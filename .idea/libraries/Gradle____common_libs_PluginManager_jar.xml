@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: ./common/libs/PluginManager.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/common/libs/PluginManager.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
